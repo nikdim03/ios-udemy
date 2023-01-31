@@ -29,6 +29,6 @@ Each project has a brief description of its features and functionality. These pr
 - [Dicee (SwiftUI)](https://github.com/nikdim03/dicee-2)
 - [H4XOR News (SwiftUI)](https://github.com/nikdim03/h4xor-news)
 - [Todoey](https://github.com/nikdim03/todoey)
-- [Nutracker](https://github.com/nikdim03/nutracker) (Not part of the course, but was developed in parallel with my it)
+- [Nutracker](https://github.com/nikdim03/nutracker) (Not part of the course, but was developed in parallel with it)
 
 Feel free to take a look at my projects and leave feedback. I am always looking to improve and learn more!
