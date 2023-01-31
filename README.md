@@ -26,6 +26,6 @@ This repository contains a collection of links to projects I have completed as p
 - [I Am Rich (SwiftUI)](https://github.com/nikdim03/i-am-rich-2)
 - [My Card(SwiftUI)](https://github.com/nikdim03/my-card)
 - [Dicee(SwiftUI)](https://github.com/nikdim03/dicee-2)
-- [H4XOR News](https://github.com/nikdim03/h4xor-news)
+- [H4XOR News(SwiftUI)](https://github.com/nikdim03/h4xor-news)
 
 Feel free to take a look at my projects and leave feedback. I am always looking to improve and learn more!
