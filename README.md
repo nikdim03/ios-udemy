@@ -31,4 +31,4 @@ Each project has a brief description of its features and functionality. These pr
 - [Todoey](https://github.com/nikdim03/todoey)
 - [Nutracker](https://github.com/nikdim03/nutracker) (Not part of the course, but was developed in parallel with it)
 
-Feel free to take a look at my projects and leave feedback. I am always looking to improve and learn more!
+Feel free to take a look at my projects and leave feedback. I am always seeking ways to improve and expand my knowledge!
