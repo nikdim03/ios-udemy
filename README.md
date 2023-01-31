@@ -9,6 +9,7 @@ This repository contains a collection of links to projects I have completed as p
 - and more
 
 # Project List
+Each project has a brief description of its features and functionality. These projects serve as examples of my abilities as an iOS developer.
 - [I Am Rich](https://github.com/nikdim03/i-am-rich)
 - [Lucky Stonker](https://github.com/nikdim03/lucky-stonker)
 - [Magic 8 Ball](https://github.com/nikdim03/magic-8-ball)
@@ -27,5 +28,6 @@ This repository contains a collection of links to projects I have completed as p
 - [My Card(SwiftUI)](https://github.com/nikdim03/my-card)
 - [Dicee(SwiftUI)](https://github.com/nikdim03/dicee-2)
 - [H4XOR News(SwiftUI)](https://github.com/nikdim03/h4xor-news)
+- [Todoey](https://github.com/nikdim03/todoey)
 
 Feel free to take a look at my projects and leave feedback. I am always looking to improve and learn more!
